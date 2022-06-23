@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\bin\Debug\net6.0\Random_Invoer.exe
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\bin\Debug\net6.0\Random_Invoer.deps.json
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\bin\Debug\net6.0\Random_Invoer.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\bin\Debug\net6.0\Random_Invoer.dll
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\bin\Debug\net6.0\Random_Invoer.pdb
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\obj\Debug\net6.0\Random_Invoer.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\obj\Debug\net6.0\Random_Invoer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\obj\Debug\net6.0\Random_Invoer.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\obj\Debug\net6.0\Random_Invoer.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\obj\Debug\net6.0\Random_Invoer.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\obj\Debug\net6.0\Random_Invoer.dll
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\obj\Debug\net6.0\refint\Random_Invoer.dll
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\obj\Debug\net6.0\Random_Invoer.pdb
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\obj\Debug\net6.0\Random_Invoer.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_4_data\Random_Invoer\obj\Debug\net6.0\ref\Random_Invoer.dll
