@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ass_Feestkassa", "Ass_Feest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orakel_van_Delphi", "Orakel_van_Delphi\Orakel_van_Delphi.csproj", "{D4070ED8-C2E6-48DD-8A28-BDD0F5D83070}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random_Invoer", "Random_Invoer\Random_Invoer.csproj", "{CB1792CF-5D5D-4B3C-BAB6-8529A71513EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D4070ED8-C2E6-48DD-8A28-BDD0F5D83070}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4070ED8-C2E6-48DD-8A28-BDD0F5D83070}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4070ED8-C2E6-48DD-8A28-BDD0F5D83070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB1792CF-5D5D-4B3C-BAB6-8529A71513EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB1792CF-5D5D-4B3C-BAB6-8529A71513EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB1792CF-5D5D-4B3C-BAB6-8529A71513EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB1792CF-5D5D-4B3C-BAB6-8529A71513EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
